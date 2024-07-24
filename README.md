@@ -1,4 +1,6 @@
-follow me on youtube https://www.youtube.com/@mo-the-dev
+follow me on youtube : https://www.youtube.com/@mo-the-dev
+follow me on linked in : https://www.linkedin.com/in/mohamedmekawy/
+
 
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
