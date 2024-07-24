@@ -1,3 +1,5 @@
+follow me on youtube https://www.youtube.com/@mo-the-dev
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
